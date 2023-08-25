@@ -1,0 +1,14 @@
+the QR Card  desktop version 
+the backgound color #CAEDFF for the  out side card 
+
+inside the Card 
+
+it has a picture of the QR 
+ we need the a container  that contains the  
+ Image and the notes in the base 
+
+
+
+
+ // the main thing is to center the card in the midlle of the page and 
+ center the image and the text inside the card 

@@ -13,7 +13,7 @@ body {
     height: 40%;
     justify-content: center;
     padding: 5% 5% 20% 5%;
-    margin: 20% auto; /* Center horizontally */
+    margin: auto; /* Center horizontally */
     text-align: center;
     border-radius: 20px;
   }
